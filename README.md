@@ -2,8 +2,6 @@
 
 Hi there! My name is Richard Galvez and I welcome you to explore the projects I'm currently working on in my own homelab setup. I am a DevOps Engineer by trade who enjoys learning, testing, and implementing new technologies to fit any business or personal need. This is my stomping ground to allow me to sharpen my skills and PoC different services with and beyond the cloud realm.
 
-Test!
-
 This homelab is what you get when you repurpose custom-built gaming PC hardware into a pretty solid setup...
 
 ## Current Setup and Services
