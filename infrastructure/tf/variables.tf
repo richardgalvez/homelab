@@ -18,22 +18,12 @@ variable "node_name" {
   type        = string
 }
 
-variable "rheluser" {
+variable "ubuntuuser" {
   description = "Temporary username for server login."
   type        = string
 }
 
-variable "rhelpassword" {
-  description = "Temporary password for server login."
-  type        = string
-}
-
-variable "k8suser" {
-  description = "Temporary username for server login."
-  type        = string
-}
-
-variable "k8spassword" {
+variable "ubuntupassword" {
   description = "Temporary password for server login."
   type        = string
 }
